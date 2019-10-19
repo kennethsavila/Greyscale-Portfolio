@@ -1,0 +1,10 @@
+{
+    "type": "ftp",
+    "host": "kennethavila.com",
+    "username": "zu0ncvw1l98v",
+    "password": "Koinonia123!",
+    "port": 21,
+    "remotePath": "/home/zu0ncvw1l98v/public_html/kennethavila.com/kennethsavila",
+    "uploadOnSave": true,
+    "uploadConfigFile": true
+}

@@ -183,7 +183,10 @@
 .projects-section .featured-text {
   padding: 2rem;
 }
+.project-heading h2 {
+  color: #161616;
 
+}
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
@@ -252,9 +255,6 @@
 .contact-section .social {
   margin-top: 5rem;
 }
-.card-body {
-  padding: 2.25rem;
-}
 .contact-section .social a {
   text-align: center;
   height: 3rem;
@@ -276,6 +276,7 @@
 body {
   font-family: 'Nunito';
   letter-spacing: 0.0625em;
+  text-align: center;
 }
 
 a {
